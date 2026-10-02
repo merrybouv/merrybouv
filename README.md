@@ -1,6 +1,6 @@
 ## Meredith Bouvier, PhD
 
-I'm an education researcher working at the intersection of technology,
+I'm a researcher working at the intersection of technology,
 children, and AI. I build the tools that come out of my research,
 mostly working prototypes that test whether an idea about learning
 actually holds up when you implement it.
